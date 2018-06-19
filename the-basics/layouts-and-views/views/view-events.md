@@ -11,7 +11,7 @@ All rendered views have associated events that are announced whenever the view i
 
 ## Sample Interceptor
 
-Here is a sample interceptor that trims any content before it is renderer:
+Here is a sample interceptor that trims any content before it is rendered:
 
 ```javascript
 component{
