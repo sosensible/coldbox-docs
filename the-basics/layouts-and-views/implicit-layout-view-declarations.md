@@ -6,7 +6,7 @@ Now that we have seen what layouts and views are, where they are located and som
 //Register Layouts
 layouts = [
     { name = "login",
-       file = "Layout.tester.cfm",
+      file = "Layout.tester.cfm",
       views = "vwLogin,test",
       folders = "tags,pdf/single"
     }
